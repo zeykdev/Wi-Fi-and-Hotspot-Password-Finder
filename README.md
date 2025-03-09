@@ -11,6 +11,9 @@ Wi-Fi & Hotspot Password Finder is a simple yet powerful batch script that helps
 ✅ Automatically saves credentials to a text file 📝  
 ✅ Fun Easter egg if the Wi-Fi isn't saved on your device 🎵  
 
+## 📷 Preview  
+![Preview Image](https://github.com/zeykdev/Wi-Fi-and-Hotspot-Password-Finder/blob/main/IMAGES/IMAGE1.PNG?raw=true)  
+
 ## 📜 Usage  
 1️⃣ **Download the script** or copy the code into a `.bat` file.  
 2️⃣ **Run the script** as an administrator.  
@@ -18,8 +21,8 @@ Wi-Fi & Hotspot Password Finder is a simple yet powerful batch script that helps
 4️⃣ **View the credentials** displayed on the screen.  
 5️⃣ **Check `WiFiPassword.txt`** for saved credentials.  
 
-## 📷 Preview  
-
+## ⬇️ Download  
+[🔗 Download Wi-Fi & Hotspot Password Finder](later nlng)  
 
 ## ⚠️ Disclaimer  
 🔹 This script **only works for Wi-Fi/hotspot networks that are saved on your device**.  
@@ -34,5 +37,3 @@ Feel free to fork this repository, suggest improvements, or report issues!
 📧 **Email:** zeykdev@gmail.com  
 
 💻 **Happy Coding!** 🚀
-
-
