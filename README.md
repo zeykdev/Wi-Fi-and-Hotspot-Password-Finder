@@ -1,5 +1,5 @@
 #  Wi-Fi & Hotspot Password Finder  
-
+[![Image of https://github.com/PVUL/repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/PVUL/repo-views-counter)
 ##  About  
 Wi-Fi & Hotspot Password Finder is a simple yet powerful batch script that helps you retrieve saved Wi-Fi and hotspot passwords from your Windows device. It uses the built-in `netsh` command to extract stored network credentials and presents them in an easy-to-read format.  
 
