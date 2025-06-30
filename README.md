@@ -7,10 +7,10 @@ This tool only works on Windows 10. I haven’t tested it on Windows 11 yet, but
 It only works for networks that are already saved on your device.
 
 ## Features  
- ‣ Retrieve saved Wi-Fi & hotspot passwords 
- ‣ Easy-to-use command-line interface 
- ‣ Automatically saves credentials to a text file 
- ‣ Fun Easter egg if the Wi-Fi isn't saved on your device 
+ ‣ Retrieve saved Wi-Fi & hotspot passwords. 
+ ‣ Easy-to-use command-line interface.
+ ‣ Automatically saves credentials to a text file.
+ ‣ Fun Easter egg if the Wi-Fi isn't saved on your device.
 
 ##  Preview  
 ![Preview Image](https://github.com/zeykdev/Wi-Fi-and-Hotspot-Password-Finder/blob/main/IMAGES/IMAGE1.PNG?raw=true)  
