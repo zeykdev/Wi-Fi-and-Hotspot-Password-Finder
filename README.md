@@ -1,8 +1,10 @@
 #  Wi-Fi & Hotspot Password Finder  
 
 ##  About  
-Wi-Fi & Hotspot Password Finder is a simple program that lets you retrieve and show local saved wifi passwords from your computer.
-**Note:** This tool only works for networks that are already saved on your device.
+Wi-Fi & Hotspot Password Finder is a simple program that allows you to retrieve and view locally saved Wi-Fi passwords on your computer.
+**Note:** 
+This tool only works on Windows 10. I haven’t tested it on Windows 11 yet, but the commands are likely the same.
+It only works for networks that are already saved on your device.
 
 ## Features  
  Retrieve saved Wi-Fi & hotspot passwords 
@@ -35,4 +37,4 @@ Feel free to fork this repository, suggest improvements, or report issues!
 🌐 **GitHub:** [ZeykDev](https://github.com/zeykdev)  
 📧 **Email:** zeykdev@gmail.com  
 
-💻 **Happy Coding!** 🚀
+**Happy Coding!** 
